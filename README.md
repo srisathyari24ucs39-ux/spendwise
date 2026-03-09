@@ -1,2 +1,2 @@
-# SpendWise
-A simple Node.js, Express, and MongoDB backend project for students to learn JWT authentication and basic CRUD operations.
+SpendWise demo video:
+https://drive.google.com/file/d/1YFxQLBLYtthfA7VSgqKRBA7wBWXn750Z/view?usp=sharing
